@@ -60,7 +60,7 @@ that package exists in your release:
 
 Install this software:
 
-    git clone https://github.com/bulletmark/libinput-gestures.git
+    git clone https://github.com/zzkW35/libinput-gestures.git
     cd libinput-gestures
     sudo make install (or sudo ./libinput-gestures-setup install)
 
